@@ -14,7 +14,6 @@
 
 | {{_includes_dev_keys-name}} | {{_includes_dev_keys-fingerprint}}         |
 |-----------------------------|--------------------------------------------|
-| Pieter Wuille               | <code>{% include fingerprint-split.html hex="133EAC179436F14A5CF1B794860FEB804E669320" %}</code> |
 | Michael Ford                | <code>{% include fingerprint-split.html hex="E777299FC265DD04793070EB944D35F9AC3DB76A" %}</code> |
 | Ava Chow                    | <code>{% include fingerprint-split.html hex="152812300785C96444D3334D17565732E08E5E41" %}</code> |
 
